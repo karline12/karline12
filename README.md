@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Karline 👋
 
-<!--
-**karline12/karline12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student  
+Focused on Web Development  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Currently Building
+- Personal Portfolio Website
+- Web Applications
+- Database-driven Projects
+
+## Goal
+To build clean, responsive, and scalable applications with strong backend logic.
